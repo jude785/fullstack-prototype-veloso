@@ -1,1 +1,1 @@
-firs repo
+first repository
